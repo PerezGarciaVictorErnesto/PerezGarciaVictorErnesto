@@ -11,12 +11,13 @@
     <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lbsfljcfjoxrr6rcjil42m7evq&amp;theme=radical" alt="Spotify recently played" width="400" />
   </a>
 </div>
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PerezGarciaVictorErnesto/PerezGarciaVictorErnesto/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PerezGarciaVictorErnesto/PerezGarciaVictorErnesto/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PerezGarciaVictorErnesto/PerezGarciaVictorErnesto/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
 
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viperbirdeg/Viperbirdeg/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viperbirdeg/Viperbirdeg/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Viperbirdeg/Viperbirdeg/pacman-output/galaga-contribution-graph.svg?game=galaga">
+</picture>
 ###
 
 <h4 data-importer="text" align="left">Herramientas con las que he creado y manejado proyectos completos:</h4>
