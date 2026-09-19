@@ -8,7 +8,7 @@
 
 <div data-importer="music" align="center">
   <a href="https://open.spotify.com/user/Viperbirdeg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Viperbirdeg&count=5&unique=true" alt="Spotify recently played"  />
+    ![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lbsfljcfjoxrr6rcjil42m7evq)
   </a>
 </div>
 
