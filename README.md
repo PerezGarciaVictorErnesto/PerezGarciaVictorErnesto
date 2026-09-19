@@ -7,7 +7,9 @@
 ###
 
 <div data-importer="music" align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=true" alt="Spotify recently played"  />
+  <a href="https://open.spotify.com/user/Viperbirdeg">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Viperbirdeg&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
@@ -17,13 +19,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph.svg?game=galaga">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
@@ -86,20 +81,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/spotify/default.svg" width="52" height="40" alt="spotify logo"  />
-</div>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PerezGarciaVictorErnesto/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@PerezGarciaVictorErnesto/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PerezGarciaVictorErnesto/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@PerezGarciaVictorErnesto/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@PerezGarciaVictorErnesto/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@PerezGarciaVictorErnesto/2" alt="Medium post 3"  />
-  </a>
 </div>
 
 ###
