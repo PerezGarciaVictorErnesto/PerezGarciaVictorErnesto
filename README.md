@@ -12,12 +12,6 @@
   </a>
 </div>
 
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Viperbirdeg/Viperbirdeg/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Viperbirdeg/Viperbirdeg/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Viperbirdeg/Viperbirdeg/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
 ###
 
 <h4 data-importer="text" align="left">Herramientas con las que he creado y manejado proyectos completos:</h4>
